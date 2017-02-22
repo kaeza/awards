@@ -481,7 +481,7 @@ msgstr "Ramasse de l'herbe."
 
 #: init.lua
 msgid "Savannah Discoverer"
-msgstr "Explorat·eur·trice de la Savanne"
+msgstr "Explorat·eur·rice de la Savanne"
 
 #: init.lua
 msgid "Mine some dry grass."
@@ -756,7 +756,7 @@ msgstr "Mange 3 champignons marrons."
 
 #: init.lua
 msgid "Mushroom Lover"
-msgstr "Adorat·eur·trice de Champignons"
+msgstr "Adorat·eur·rice de Champignons"
 
 #: init.lua
 msgid "Eat 33 brown mushrooms."
@@ -778,7 +778,7 @@ msgstr "Bâtisseu·r·se"
 #: init.lua
 #, fuzzy
 msgid "Constructor"
-msgstr "Constructeu·r·se"
+msgstr "Construct·eur·rice"
 
 #: init.lua
 #, fuzzy
