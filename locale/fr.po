@@ -98,7 +98,6 @@ msgstr[0] "Mine : @2"
 msgstr[1] "Mine : @1×@2"
 
 #: triggers.lua
-#, fuzzy
 msgid "Mine @1 block."
 msgid_plural "Mine @1 blocks."
 msgstr[0] "Creuse @1 bloc."
@@ -133,7 +132,6 @@ msgstr[0] "Mange : @2"
 msgstr[1] "Mange : @1×@2"
 
 #: triggers.lua
-#, fuzzy
 msgid "Eat an item."
 msgid_plural "Eat @1 items."
 msgstr[0] "Mange quelque chose."
@@ -239,7 +237,6 @@ msgid "Light It Up"
 msgstr "Eclairé·e"
 
 #: init.lua
-#, fuzzy
 msgid "Place 100 torches."
 msgstr "Place 100 torches."
 
@@ -248,7 +245,6 @@ msgid "Well Lit"
 msgstr "Bien Éclairé"
 
 #: init.lua
-#, fuzzy
 msgid "Place 1,000 torches."
 msgstr "Place 1000 torches."
 
@@ -286,12 +282,11 @@ msgstr "Confectionne 3200 briques de pierre."
 
 #: init.lua
 msgid "Desert Dweller"
-msgstr "Habitant·e du Désert."
+msgstr "Habitant·e du Désert"
 
 #: init.lua
-#, fuzzy
 msgid "Craft 400 desert stone bricks."
-msgstr "Confectionne 400 briques de pierre."
+msgstr "Confectionne 400 briques de pierre du désert."
 
 #: init.lua
 msgid "Pharaoh"
@@ -335,10 +330,9 @@ msgstr "Mine n'importe quel bloc à proximité de la lave."
 
 #: init.lua
 msgid "On The Way"
-msgstr "Faîtes Place"
+msgstr "Sur La Voie"
 
 #: init.lua
-#, fuzzy
 msgid "Place 100 rails."
 msgstr "Place 100 rails."
 
@@ -447,7 +441,6 @@ msgid "Dig 10,000 stone blocks."
 msgstr "Creuse 10000 blocs de pierre."
 
 #: init.lua
-#, fuzzy
 msgid "Marchand De Sable"
 msgstr "Marchand·e De Sable"
 
@@ -529,7 +522,7 @@ msgstr "Mine ton premier minerai d'or."
 
 #: init.lua
 msgid "Gold Rush"
-msgstr "Ruée vers l'or"
+msgstr "Ruée vers l'Or"
 
 #: init.lua
 msgid "Mine 45 gold ores."
@@ -613,7 +606,6 @@ msgid "Build a Cave"
 msgstr "Construis une grotte"
 
 #: init.lua
-#, fuzzy
 msgid "Place 100 stone."
 msgstr "Place 100 pierres."
 
@@ -630,7 +622,6 @@ msgid "Industrial Age"
 msgstr "Âge Industriel"
 
 #: init.lua
-#, fuzzy
 msgid "Place 40 steel ladders."
 msgstr "Place 40 échelles métalliques."
 
@@ -771,22 +762,18 @@ msgid "Eat 333 brown mushrooms."
 msgstr "Mange 333 champignons marrons."
 
 #: init.lua
-#, fuzzy
 msgid "Builder"
 msgstr "Bâtisseu·r·se"
 
 #: init.lua
-#, fuzzy
 msgid "Constructor"
 msgstr "Construct·eur·rice"
 
 #: init.lua
-#, fuzzy
 msgid "Architect"
 msgstr "Architecte"
 
 #: init.lua
-#, fuzzy
 msgid "Master Architect"
 msgstr "Maître·sse Architecte"
 
