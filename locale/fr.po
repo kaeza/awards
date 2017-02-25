@@ -190,7 +190,7 @@ msgstr "Saint-Maclou"
 
 #: init.lua
 msgid "Place 20 coal checkers."
-msgstr "Place 20 pions de charbon."
+msgstr "Place 20 damiers de charbon."
 
 #: init.lua
 msgid "Castorama"
@@ -198,7 +198,7 @@ msgstr "Castorama"
 
 #: init.lua
 msgid "Place 20 iron checkers."
-msgstr "Place 20 pions de fer."
+msgstr "Place 20 damiers de fer."
 
 #: init.lua
 msgid "Sam the Trapper"
